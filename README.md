@@ -9,7 +9,9 @@ Hailing all the way from Bangladesh, we aim to fuse our creativity, coding skill
 
 FIRSTLY, A LITTLE ABOUT OUR TEAM:
 
-Our Team consists of 2 members guided by 1 coach we are:
+Our Team consists of 2 members guided by 1 coach.
+
+We are:
 
 1.) Humaira Quyum 🐻‍❄️,
 Design enthusiast and skin care fanatic. She worked on the external design, including which components to be used. (⁠ ⁠╹⁠▽⁠╹⁠ ⁠)
@@ -31,6 +33,6 @@ This repository serves as not only a journal for the development of our robot, n
 
 Here onwards is the gateway to our coding progress journal: from the paper-bound sketches of our initial designs, to the final robot operating, we aspire to showcase our journey in complete details on this page. ~ (⁠◔⁠‿⁠◔⁠)
 
-INTIAL SKETCHES AND MODELS 
+INITIAL SKETCHES AND MODELS 
 -
 Coco was intially conceptualized to be rectangular in shape, with large wheels to allow for the best grip and a large surface area to allow components to be added without any difficulty as shown in first sketches created: 
