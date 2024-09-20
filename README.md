@@ -38,4 +38,10 @@ Here onwards is the gateway to our coding progress journal: from the paper-bound
 
 INITIAL SKETCHES AND MODELS 
 -
-Coco was intially conceptualized to be rectangular in shape, with large wheels to allow for the best grip and a large surface area to allow components to be added without any difficulty as shown in first sketches created: 
+Coco was intially conceptualized to be rectangular in shape, with large wheels to allow for the best grip and a large surface area to allow components to be added without any difficulty as shown in first models created: 
+![Angled view of coco V1 0](https://github.com/user-attachments/assets/dd64bba0-5738-4167-a465-3b3ddb0d7ecb)
+![Top view of the rear of Coco V1 0](https://github.com/user-attachments/assets/f1671986-97cc-4428-ad4c-c31846091d27)
+![Top view of the front of Coco V1 0](https://github.com/user-attachments/assets/27f0479c-d3cc-45be-b91b-624a8426e172)
+![Front view of Coco V1 0](https://github.com/user-attachments/assets/cd8e0c7c-246c-472c-a819-d86806cfdf3b)
+![Complete top view of coco V1 0](https://github.com/user-attachments/assets/dd08786c-ac94-40ef-8f8f-66c92352216d)
+
