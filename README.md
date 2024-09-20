@@ -42,8 +42,10 @@ Here onwards is the gateway to our coding progress journal: from the paper-bound
 
 
 
-INITIAL MODELS (LAST UPDATED 20TH SEPT 2024)
+PROGRESS TAB (LAST UPDATED 20TH SEPT 2024)
 -
+Check here for daily updates and changes made to our robot and see how it develops in front of your eyes 
+
 Coco was intially conceptualized to be rectangular in shape, with large wheels to allow for the best grip and a large surface area to allow components to be added without any difficulty as shown in first models created, a more detailed description is given in the MODELS directory, and whilst it seemed great, we had to go back on the drawing board as the steering system was not well-suited and did not work as planned, nevertheless, here is the first iteration of COCO, COCO V1.0: 
 
 ![Angled view of coco V1 0](https://github.com/user-attachments/assets/dd64bba0-5738-4167-a465-3b3ddb0d7ecb)
