@@ -27,7 +27,7 @@ float speed_sound = 334; ///This is a constant to calculate an accurate distance
 float dist_left, dist_left_final; ///The 2 variables are used to calculate the left hand side distance from the robot to the wall and convert it to centimeters respectively. 
 float dist_right, dist_right_final; ///The same as before but for the right hand side of our robot 
 float TIME_LEFT, TIME_RIGHT; ///These variables store the time it takes for the ultrasound echo to return to our HC-SR04 sensors, for the left and right sides respectively.
-float MIN_DIST = 100; ///A variable that is used to store a threshold value for intializing a turn 
+float MIN_DIST = 40; ///A variable that is used to store a threshold value for intializing a turn 
 int MAX_DIST = 5; /// A variable that is used to store a threshold value for how close our robot can get to either one of the walls beside it 
 int DIST_LEFT_FINAL, DIST_RIGHT_FINAL; /// A variable used to round up the decimal distance values for the left and right side 
 int avg = 10; /// A variable that stores the amount of averages we want to take, in this case, we take 10 averages using the sonar.ping_median(avg) function.
@@ -126,7 +126,7 @@ float speed_sound; ///This is a variable to calculate an accurate speed of sound
 float dist_left, dist_left_final; ///The 2 variables are used to calculate the left hand side distance from the robot to the wall and convert it to centimeters respectively. 
 float dist_right, dist_right_final; ///The same as before but for the right hand side of our robot 
 float TIME_LEFT, TIME_RIGHT; ///These variables store the time it takes for the ultrasound echo to return to our HC-SR04 sensors, for the left and right sides respectively.
-float MIN_DIST = 39.5; ///A variable that is used to store a threshold value for intializing a turn 
+float MIN_DIST = 40.0; ///A variable that is used to store a threshold value for intializing a turn 
 int MAX_DIST = 5; /// A variable that is used to store a threshold value for how close our robot can get to either one of the walls beside it 
 int DIST_LEFT_FINAL, DIST_RIGHT_FINAL; /// A variable used to round up the decimal distance values for the left and right side 
 int avg = 10; /// A variable that stores the amount of averages we want to take, in this case, we take 10 averages using the sonar.ping_median(avg) function.
